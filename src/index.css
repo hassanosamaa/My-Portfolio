@@ -1,0 +1,28 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg_dark{
+  @apply bg-gray-950
+}
+
+
+
+
+.btn{
+  @apply bg-gray-900 px-4 py-[5px] rounded-xl
+  hover:bg-gray-800 dark:bg-gray-400
+  dark:text-gray-900 
+   text-gray-400
+}
+
+.check{
+  @apply bg-gray-800 border border-sky-700 text-gray-50
+  dark:font-bold
+}
+
+.skill{
+  @apply text-[80px] 
+}
