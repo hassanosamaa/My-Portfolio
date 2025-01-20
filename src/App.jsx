@@ -22,8 +22,8 @@ function App() {
           <Home/>
           <Title title={"My Skills"}/>
           <Skills/>
-          <Title title={"My Projects"}/>
-          <Projects/>
+          {/* <Title title={"My Projects"}/> */}
+          {/* <Projects/> */}
           <Title title={"Contact "}/>
           <Contact/>
           <Footer/>
