@@ -107,8 +107,8 @@ export default function Nav({fun}) {
                 <a href="#skills" className={c === 'Skills' ? "btn check" : "btn"}
                     onClick={() => { setC('Skills') }}>Skills</a>
 
-                <a href="#projects" className={c === 'projects' ? "btn check" : "btn"}
-                    onClick={() => { setC('projects') }}>Projects</a>
+                {/* <a href="#projects" className={c === 'projects' ? "btn check" : "btn"}
+                    onClick={() => { setC('projects') }}>Projects</a> */}
                 <a href="#contact" className={c === 'contact' ? "btn check" : "btn"}
                     onClick={() => { setC('contact') }}>Contact</a>
 
