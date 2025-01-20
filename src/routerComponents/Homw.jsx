@@ -44,7 +44,12 @@ export default function Home(){
                 <p className="p-4 text-gray-200 font-extralight
                 dark:text-gray-950
                 "
-                >Front-end development, deals with the parts of a website or application that the end user actually sees and interacts with. As a front-end developer, you’ll be working to make websites beautiful, functional, responsive,and accessible.</p>
+                >
+                    I’m a Frontend engineer who is passionate about creating high-performance
+applications using the latest technologies and best practices. I am committed to
+developing strong software architectures and constantly learning about new fields and
+technologies to improve development efficiency and deliver innovative solutions.
+</p>
                 <div className="flex 
                 justify-center
                 gap-[15px]
