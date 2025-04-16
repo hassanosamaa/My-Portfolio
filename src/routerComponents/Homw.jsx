@@ -58,10 +58,8 @@ technologies to improve development efficiency and deliver innovative solutions.
                 
                 ">
                     <a href="https://www.facebook.com/profile.php?id=100020227121713"><i className=" icon-facebook text-[#1877f2] text-[25px] md:text-[30px]   transition duration-300"></i></a>
-                    
                     <a href="https://github.com/hassanosamaa"><i className=" icon-github  text-gray-200 dark:text-gray-900 text-[25px] md:text-[30px]  transition duration-300"></i></a>
-                    <a href="https://www.linkedin.com/in/hassan-osama-0024631a0"><i className=" icon-linkedin  text-[#0077b5] text-[25px] md:text-[30px]   transition duration-300"></i></a>
-
+                    <a href="www.linkedin.com/in/el-hassan-osama-867451172"><i className=" icon-linkedin  text-[#0077b5] text-[25px] md:text-[30px]   transition duration-300"></i></a>
                     <a href="https://wa.me/+201157234805"><i className=" icon-whatsapp text-[#25d366]  text-[25px] md:text-[30px]  transition duration-300"></i></a>
                 </div>
                 <div className="btn mt-4 border border-sky-500 cursor-pointer">
